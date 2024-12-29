@@ -1,2 +1,3 @@
+java:8
 apache/rocketmq
 apacherocketmq/rocketmq-dashboard
